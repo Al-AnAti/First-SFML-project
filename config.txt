@@ -1,0 +1,8 @@
+Window 800 600
+Font fonts/tech.ttf 18 255 255 255
+Circle CGreen 100 100 -1.5 1.0 0 255 0 50
+Circle CBlue 200 200 0.6 1.4 0 0 255 100
+Circle CPurple 300 300 -1.0 -0.5 255 0 255 75
+Rectangle RRed 200 200 4.0 4.25 255 0 0 50 25
+Rectangle RGrey 300 250 -0.8 0.8 100 100 100 50 100
+Rectangle RTeal 25 100 -1.0 -1.0 0 255 255 100 100
